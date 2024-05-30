@@ -21,4 +21,4 @@ English Word of IT Carrer
 - unintentional  无意的
 - waterfall pattern  瀑布模式(和下面的平行模式相对应，通常是同步和异步)
 - parallel pattern  平行模式
-
+- Simulate  模仿
