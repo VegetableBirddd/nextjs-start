@@ -1,0 +1,24 @@
+English Word of IT Carrer
+
+- style collisions  样式冲突
+- take a quiz  做一个小测试
+- In addition to  除了，另外
+- style components (用作动词)  装饰/修饰组件
+- swap  交换
+- optimize  使优化
+- automatically  自动地
+- impact performance  影响性能
+- throughout application  遍及应用/贯穿应用
+- smooth out  使平滑
+- Images without dimensions  没有尺寸的图像
+- populate database  填充数据库
+- an intermediary layer  一个中间层
+- query your database  查询你的数据库
+- in terms of   就……而言/在……方面
+- manipulate data  操纵数据
+- comment out  注释掉
+- Hint  提示
+- unintentional  无意的
+- waterfall pattern  瀑布模式(和下面的平行模式相对应，通常是同步和异步)
+- parallel pattern  平行模式
+
