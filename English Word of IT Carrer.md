@@ -22,3 +22,6 @@ English Word of IT Carrer
 - waterfall pattern  瀑布模式(和下面的平行模式相对应，通常是同步和异步)
 - parallel pattern  平行模式
 - Simulate  模仿
+- invoke  调用
+- In general  大体上/通常
+-  run asynchronous code directly  直接运行异步代码
